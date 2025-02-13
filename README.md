@@ -225,6 +225,10 @@ Konflikt gelöst, feature wurde entfernt:
 
 ![Bild Konflikt](Bild11.png "")
 
+Projekt nach dem push im GitHub-Konto
+
+![Bild Konflikt](Bild12.png "")
+
 
 
 
